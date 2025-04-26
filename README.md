@@ -1,0 +1,1 @@
+A password strength meter is a tool that visually assesses how strong a password is, offering real-time feedback and guidance to users on how to improve their password security. It typically displays a meter or bar that indicates the password's strength level, often using color-coding to represent weak, moderate, or strong passwords. 
